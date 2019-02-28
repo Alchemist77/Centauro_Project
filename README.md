@@ -5,13 +5,18 @@
 Example taken from  http://www.pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/
 
 ## Download dataset ##
+```
 wget https://www.dropbox.com/s/adph9zgh9ilpg1b/augmented_2classes_carton_plastic.zip?dl=0
-
+```
 * change file name
+```
 mv augmented_2classes_carton_plastic.zip?dl=0 augmented_2classes_carton_plastic.zip
+```
 
 *Then, extract the zip file into *data_augmentation*
+```
 unzip augmented_2classes_carton_plastic.zip
+```
 
 ## Training ##
 * PC should be installed Keras with Tensorflow!

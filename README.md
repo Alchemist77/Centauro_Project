@@ -10,7 +10,7 @@ wget https://www.dropbox.com/s/adph9zgh9ilpg1b/augmented_2classes_carton_plastic
 * change file name
 mv augmented_2classes_carton_plastic.zip?dl=0 augmented_2classes_carton_plastic.zip
 
-Then, extract the zip file into *data_augmentation*
+*Then, extract the zip file into *data_augmentation*
 unzip augmented_2classes_carton_plastic.zip
 
 ## Training ##

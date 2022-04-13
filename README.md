@@ -42,4 +42,7 @@ Now it is somewhat deprecated, because you can use the ImageGenerators from Kera
 * to resize all the images:
 ```
     for file in *.png; do convert $file -resize 180x180! $file; done
+    
 ```
+Kim, Jaeseok, Olivia Nocentini, Marco Scafuro, Raffaele Limosani, Alessandro Manzi, Paolo Dario, Filippo Cavallo "An Innovative Automated Robotic System based on Deep Learning approach for Recycling Objects." In: 16th International Conference on Informatics in Control, Automation and Robotics (ICINCO 2019).
+
